@@ -1,4 +1,5 @@
-# DIs
+# Discord_Bot_Python
+
 A brief description of your Discord bot and its purpose.
 
 ## Table of Contents
