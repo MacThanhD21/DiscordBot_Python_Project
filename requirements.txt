@@ -1,0 +1,5 @@
+dotenv
+requests
+bardapi
+discord
+wavelink
