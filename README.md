@@ -14,7 +14,7 @@ A brief description of your Discord bot and its purpose.
 - [License](#license)
 
 ## Video Demo
-<iframe width="560" height="315" src="https://youtu.be/neiJTYSMlUs?si=JRL4EfcW5hJn2Ok5" frameborder="0" allowfullscreen></iframe>
+<video src="https://youtu.be/neiJTYSMlUs?si=JRL4EfcW5hJn2Ok5" width="320" height="240" controls preload></video>
 ## Features
 
 List the key features of your Discord bot.
